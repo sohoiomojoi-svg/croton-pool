@@ -41,7 +41,7 @@ CAPS = [
     "- Pool equipment installation (supplied & installed as part of our work): filtration, pumps, heat pumps, cleaning robots, lighting",
     "- Sauna supply & installation: outdoor/indoor saunas for residences, hotels and facilities",
     "- Outdoor living: decks, pergolas, exterior works and landscape",
-    "Licenses: Construction Business License (Okinawa Pref.) / First-Class Architect Office / Real Estate Brokerage",
+    "Licenses: Okinawa Gov. Construction License (General) No. 12065 / First-Class Architect Office Reg. No. 183-2732 / Real Estate License (3) No. 4410",
 ]
 # ===========================================================================
 
