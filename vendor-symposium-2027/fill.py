@@ -26,7 +26,7 @@ ROWS = {  # template y (px) -> text   (address/phone confirmed by 2026-11 invoic
     372: "Tetsuro Shimoji, President & CEO",
     449: "+81-98-877-9610",
     527: "croton@croton.okinawa",
-    604: "https://croton.okinawa/poollife/  |  https://croton.jp",
+    604: "Pools: croton.okinawa/poollife    Company: croton.jp",
 }
 BUSINESS_TYPE = {"supplies": False, "services": True, "construction": True}
 
