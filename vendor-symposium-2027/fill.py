@@ -31,17 +31,15 @@ ROWS = {  # template y (px) -> text   (address/phone confirmed by 2026-11 invoic
 BUSINESS_TYPE = {"supplies": True, "services": True, "construction": True}
 
 ABOUT = [
-    "Okinawa-based first-class registered architect office and licensed general contractor providing building inspection,",
-    "design, construction and pool services. Led by a first-class registered architect and first-class certified waterproofing",
-    "technician (PVC membrane), we build and restore swimming pools and outdoor spaces built for Okinawa's coastal climate.",
-    "Authorized Desjoyaux Japan Partner (Okinawa) - Desjoyaux pipeless pool systems (filtration built in, no buried piping).",
+    "Okinawa-based licensed general contractor and first-class registered architect office, founded in 2004, providing building inspection,",
+    "design, construction and pool services. Led by a certified construction manager, a first-class waterproofing technician and a first-class",
+    "registered architect, we build pools and outdoor spaces designed for Okinawa's climate. Over 100 pools delivered in Okinawa.",
+    "Authorized Desjoyaux Japan Partner (Okinawa): Desjoyaux pool systems with built-in filtration - no buried piping, no equipment room. 60 years of history.",
 ]
 CAPS = [
     "- Swimming pool design & construction: residential, hotel and facility pools",
-    "- Pool renovation & leak repair: PVC membrane re-lining, waterproofing, salt-damage & corrosion repair, tile restoration",
-    "- Pool equipment installation (supplied & installed as part of our work): filtration, pumps, heat pumps, lighting",
+    "- Pool equipment installation (supplied & installed as part of our work): filtration, pumps, heat pumps, cleaning robots, lighting",
     "- Sauna supply & installation: outdoor/indoor saunas for residences, hotels and facilities",
-    "- Pool & building inspection: leak investigation, waterproofing and concrete deterioration (salt damage) surveys",
     "- Outdoor living: decks, pergolas, exterior works and landscape",
     "Licenses: Construction Business License (Okinawa Pref.) / First-Class Architect Office / Real Estate Brokerage",
 ]
@@ -103,7 +101,7 @@ def overlay(logo_path):
         fit(c, l, X(22), Y(722) - i * 29, 22, 1610,
             font="Helvetica-Bold" if l.startswith("Authorized") else "Helvetica")
     for i, l in enumerate(CAPS):
-        fit(c, l, X(22), Y(896) - i * 30, 22, 1610,
+        fit(c, l, X(22), Y(900) - i * 34, 24, 1610,
             font="Helvetica-Bold" if l.startswith("Licenses") else "Helvetica")
     c.save()
     buf.seek(0)

@@ -45,6 +45,7 @@
 - [~] Higa氏宛の下書きに「提携先商品の展示可否」の質問を追加済（未送信）
 - [x] デジョユ表記 → 英語は **Desjoyaux**（partner.desjoyaux-japan.com より）。About末尾に「Authorized Desjoyaux Japan Partner (Okinawa)」を太字で追加（2026-11-26）
 - [ ] 許認可番号 → 社内書類（2026-10-01）に記載あり（建築士事務所 第133-2732号／建設業 第12065号／宅建 (3)第4410号）。**建設業の表記「般23」が不自然なので許可証原本で確認後に追記**。現在は番号なし
+- [x] About／Capabilities を社長文案で全面改訂（2026-11-26）：創業2004年・引渡し100件以上・施工管理技士を追加、Desjoyauxは「配管埋設・機械室不要、60年の歴史」。改修・漏水補修／調査の行は削除（塩害訴求はパンフから外れ、当日のトークで補う）。設備に掃除ロボットを追加
 - [ ] フォーム提出（**外部送信は社長確認後**）
 - [~] 当日準備 → PREP.md に持ち物チェックリスト作成済
 - [x] 訴求軸：塩害劣化と補修 → パンフの Capabilities に "salt-damage & corrosion repair" "(salt damage) surveys" を追記、About を "coastal climate" に変更。トーク順は PREP.md
