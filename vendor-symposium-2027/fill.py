@@ -71,10 +71,11 @@ def overlay(logo_path):
     buf = io.BytesIO()
     c = canvas.Canvas(buf, pagesize=(W, H))
     # logo box
-    c.setFillColor(HexColor("#c8d1db"))
-    c.roundRect(X(22), Y(518), X(355), X(338), X(38), stroke=0, fill=1)
+    c.setFillColor(HexColor("#ffffff")); c.setStrokeColor(HexColor("#c8d1db")); c.setLineWidth(2)
+    c.roundRect(X(20), Y(520), X(359), X(350), X(38), stroke=1, fill=1)
+    c.setStrokeColor(navy)
     if logo_path and os.path.exists(logo_path):
-        pad = X(30)
+        pad = X(18)
         c.drawImage(logo_path, X(22) + pad, Y(518) + pad, X(355) - 2 * pad, X(338) - 2 * pad,
                     preserveAspectRatio=True, anchor="c", mask="auto")
     else:

@@ -36,7 +36,7 @@
 ## 残タスク
 - [x] 住所・電話の確認 → 2026-11-18発行請求書（MoneyForward）の記載と一致。〒901-2114 を追記済
 - [x] Website URL を記入 → `https://croton.okinawa/poollife/ | https://croton.jp`（メール署名マニュアル記載のもの）。英語ページが無いなら片方に絞るか判断
-- [x] 正式ロゴ → 社長提供の「Croton ARCHITECTURAL PLANNING STUDIO」ロゴに差し替え済（croton_logo.png・白背景を透過処理）。高解像度の元データがあれば差し替えるとより鮮明
+- [x] 正式ロゴ → 社長提供のカラーロゴ（CROTON／Architectural Planning Studio、高解像度2000px）に差し替え。ロゴ枠は白背景＋細い灰色の縁（2026-11-26）
 - [x] MasterCard → **Yes** に変更（2026-11-26 社長：決済手段は後から用意して問題なし）。**初受注までにMastercard対応の決済（Square等）を導入すること**
 - [x] Business Type に Supplies も追加（2026-11-26 社長）。Capabilities は「Pool equipment supply & installation（ろ過・ポンプ・ヒートポンプ・照明）」に。サウナ等H2O関連は引き続き載せない
 - [ ] 出席者 → **社長＋2名（計3名）**で決定。残り2名の人選と、3名分の入力情報・身分証データ準備 → PREP.md の表に記入
