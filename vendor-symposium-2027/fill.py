@@ -38,7 +38,8 @@ ABOUT = [
 CAPS = [
     "- Swimming pool design & construction: residential, hotel and facility pools",
     "- Pool renovation & leak repair: PVC membrane re-lining, waterproofing, salt-damage & corrosion repair, tile restoration",
-    "- Pool equipment supply & installation: filtration systems, pumps, heat pumps and lighting",
+    "- Pool equipment installation (supplied & installed as part of our work): filtration, pumps, heat pumps, lighting",
+    "- Sauna supply & installation: outdoor/indoor saunas for residences, hotels and facilities",
     "- Pool & building inspection: leak investigation, waterproofing and concrete deterioration (salt damage) surveys",
     "- Outdoor living: decks, pergolas, exterior works and landscape",
     "Licenses: Construction Business License (Okinawa Pref.) / First-Class Architect Office / Real Estate Brokerage",
@@ -100,7 +101,7 @@ def overlay(logo_path):
     for i, l in enumerate(ABOUT):
         fit(c, l, X(22), Y(728) - i * 32, 24, 1610)
     for i, l in enumerate(CAPS):
-        fit(c, l, X(22), Y(900) - i * 34, 24, 1610,
+        fit(c, l, X(22), Y(896) - i * 30, 22, 1610,
             font="Helvetica-Bold" if l.startswith("Licenses") else "Helvetica")
     c.save()
     buf.seek(0)
