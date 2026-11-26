@@ -15,7 +15,7 @@ from reportlab.pdfgen import canvas
 
 # ===== SETTINGS ============================================================
 # MasterCard accepted?  "yes" / "no" / None (= leave blank; decide before submitting)
-MASTERCARD = None
+MASTERCARD = "yes"
 # Official logo image (PNG/JPG). None or missing file = text wordmark placeholder.
 LOGO = "croton_logo.png"
 
