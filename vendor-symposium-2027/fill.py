@@ -31,9 +31,9 @@ ROWS = {  # template y (px) -> text   (address/phone confirmed by 2026-11 invoic
 BUSINESS_TYPE = {"supplies": True, "services": True, "construction": True}
 
 ABOUT = [
-    "Okinawa-based licensed general contractor and first-class registered architect office, founded in 2004, providing building inspection,",
-    "design, construction and pool services. Led by a certified construction manager, a first-class waterproofing technician and a first-class",
-    "registered architect, we build pools and outdoor spaces designed for Okinawa's climate. Over 100 pools delivered in Okinawa.",
+    "Okinawa-based licensed general contractor and first-class registered architect office specializing in pool design and construction, founded in 2004.",
+    "Beyond pools, we also provide building inspection, design and construction. Led by a certified construction manager, a first-class waterproofing",
+    "technician and a first-class registered architect, we create pools and outdoor spaces designed for Okinawa's climate. Over 100 pools delivered in Okinawa.",
     "Authorized Desjoyaux Japan Partner (Okinawa): Desjoyaux pool systems with built-in filtration - no buried piping, no equipment room. 60 years of history.",
 ]
 CAPS = [
