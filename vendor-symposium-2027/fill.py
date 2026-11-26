@@ -24,7 +24,7 @@ ROWS = {  # template y (px) -> text   (address/phone confirmed by 2026-11 invoic
     218: "N/A (not required for this event)",
     295: "1-53-13 Asacha, Urasoe, Okinawa 901-2114 (Toyofuku Bldg. 2F)",
     372: "Tetsuro Shimoji, President & CEO",
-    449: "+81-98-877-9610",
+    449: "+81-70-5564-5243 (mobile) / +81-98-877-9610 (office)",
     527: "croton@croton.okinawa",
     604: "Pools: croton.okinawa/poollife    Company: croton.jp",
 }
