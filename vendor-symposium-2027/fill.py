@@ -34,6 +34,7 @@ ABOUT = [
     "Okinawa-based first-class registered architect office and licensed general contractor providing building inspection,",
     "design, construction and pool services. Led by a first-class registered architect and first-class certified waterproofing",
     "technician (PVC membrane), we build and restore swimming pools and outdoor spaces built for Okinawa's coastal climate.",
+    "Authorized Desjoyaux Japan Partner (Okinawa) - Desjoyaux pipeless pool systems (filtration built in, no buried piping).",
 ]
 CAPS = [
     "- Swimming pool design & construction: residential, hotel and facility pools",
@@ -99,7 +100,8 @@ def overlay(logo_path):
         check(c, 1328, 607)
     # about / capabilities (box width ~ 1620pt)
     for i, l in enumerate(ABOUT):
-        fit(c, l, X(22), Y(728) - i * 32, 24, 1610)
+        fit(c, l, X(22), Y(722) - i * 29, 22, 1610,
+            font="Helvetica-Bold" if l.startswith("Authorized") else "Helvetica")
     for i, l in enumerate(CAPS):
         fit(c, l, X(22), Y(896) - i * 30, 22, 1610,
             font="Helvetica-Bold" if l.startswith("Licenses") else "Helvetica")
