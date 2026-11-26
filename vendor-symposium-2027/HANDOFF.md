@@ -36,7 +36,7 @@
 - [x] Website URL を記入 → `https://croton.okinawa/poollife/ | https://croton.jp`（メール署名マニュアル記載のもの）。英語ページが無いなら片方に絞るか判断
 - [x] 正式ロゴ → 社長提供の「Croton ARCHITECTURAL PLANNING STUDIO」ロゴに差し替え済（croton_logo.png・白背景を透過処理）。高解像度の元データがあれば差し替えるとより鮮明
 - [x] MasterCard → **Yes** に変更（2026-11-26 社長：決済手段は後から用意して問題なし）。**初受注までにMastercard対応の決済（Square等）を導入すること**
-- [ ] （任意）サウナ等の追記 → 保留継続（決定事項どおり。パンフには載せていない）
+- [x] Business Type に Supplies も追加（2026-11-26 社長）。Capabilities は「Pool equipment supply & installation（ろ過・ポンプ・ヒートポンプ・照明）」に。サウナ等H2O関連は引き続き載せない
 - [ ] 出席者 → **社長＋2名（計3名）**で決定。残り2名の人選と、3名分の入力情報・身分証データ準備 → PREP.md の表に記入
 - [~] Higa氏へ英語で問い合わせ → **Gmail下書き作成済（未送信）**。締切・ブース寸法・電源・机/クロス・同一グループ2ブース可否・選考結果通知を質問。社長確認後に送信（croton@croton.okinawa から送るなら差出人を切替）
 - [ ] フォーム提出（**外部送信は社長確認後**）

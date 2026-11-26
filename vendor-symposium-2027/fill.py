@@ -28,7 +28,7 @@ ROWS = {  # template y (px) -> text   (address/phone confirmed by 2026-11 invoic
     527: "croton@croton.okinawa",
     604: "Pools: croton.okinawa/poollife    Company: croton.jp",
 }
-BUSINESS_TYPE = {"supplies": False, "services": True, "construction": True}
+BUSINESS_TYPE = {"supplies": True, "services": True, "construction": True}
 
 ABOUT = [
     "Okinawa-based first-class registered architect office and licensed general contractor providing building inspection,",
@@ -38,7 +38,7 @@ ABOUT = [
 CAPS = [
     "- Swimming pool design & construction: residential, hotel and facility pools",
     "- Pool renovation & leak repair: PVC membrane re-lining, waterproofing, salt-damage & corrosion repair, tile restoration",
-    "- Pool equipment installation: filtration systems, pumps and lighting",
+    "- Pool equipment supply & installation: filtration systems, pumps, heat pumps and lighting",
     "- Pool & building inspection: leak investigation, waterproofing and concrete deterioration (salt damage) surveys",
     "- Outdoor living: decks, pergolas, exterior works and landscape",
     "Licenses: Construction Business License (Okinawa Pref.) / First-Class Architect Office / Real Estate Brokerage",
